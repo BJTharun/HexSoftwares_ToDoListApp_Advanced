@@ -1,2 +1,86 @@
-# HexSoftwares_ToDoListApp_Advanced
-Advanced To-Do List App with Dark Mode, Notifications, Date &amp; Time (Built for Hex Softwares Internship)
+\# 📝 Advanced To-Do List App  
+
+
+
+A modern \*\*To-Do List App\*\* built using \*\*HTML, CSS, and JavaScript\*\*.  
+
+This project was created as part of my \*\*Hex Softwares Internship\*\*.  
+
+
+
+---
+
+
+
+\## ✨ Features
+
+\- 🌗 Dark/Light Mode Toggle
+
+\- 🕒 Shows Date \& Time for each task
+
+\- 🔔 Notifications for actions
+
+\- 🗑 Clear All Tasks button
+
+\- 💾 Data saved in Local Storage  
+
+
+
+---
+
+
+
+\## 📸 Screenshots
+
+\### Dark Mode
+
+(Add screenshot here)  
+
+
+
+\### Light Mode
+
+(Add screenshot here)  
+
+
+
+---
+
+
+
+\## 🚀 Live Demo
+
+( https://bjtharun.github.io/ToDoListApp\_Advance/)
+
+
+
+---
+
+
+
+\## ⚙️ Tech Stack
+
+\- \*\*HTML5\*\*
+
+\- \*\*CSS3\*\*
+
+\- \*\*JavaScript\*\*
+
+\- \*\*Local Storage API\*\*
+
+
+
+---
+
+
+
+\## 👨‍💻 Author
+
+\*\*Edigani Tharun\*\*  
+
+📧 \[tharunedigani@gmail.com](mailto:tharunedigani@gmail.com)  
+
+🔗 \[LinkedIn](https://linkedin.com/in/edigani-tharun)
+
+
+
